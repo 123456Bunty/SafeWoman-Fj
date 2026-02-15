@@ -1,0 +1,9 @@
+{
+  "name": "SafeWomen Fiji",
+  "description": "A safety-first application designed to empower women in Fiji with emergency tools, live location sharing, and crowdsourced safety reports for night-time security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
